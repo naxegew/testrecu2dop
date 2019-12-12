@@ -1,0 +1,5 @@
+id,int,float,char,string
+1,11,1.00,n,nax
+2,22,2.00,a,abril
+3,33,3.00,g,gatita
+
